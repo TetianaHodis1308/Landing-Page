@@ -2,7 +2,7 @@
 
 1. [Live Demo](https://tetianahodis1308.github.io/Landing-Page/)
 
-2. This landing page was implemented based on the following design: [Figma Design] (https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-139&p=f)
+2. This landing page was implemented based on the following design: [Figma Design](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-139&p=f)
 
 3. Project Description
 This is a clean and responsive landing page built from a static design mockup.
