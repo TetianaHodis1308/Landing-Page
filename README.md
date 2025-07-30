@@ -17,16 +17,13 @@ Technologies used:
 It ensures consistent appearance and behavior across mobile, tablet, and desktop devices.
 
 5. Getting Started to set up the project locally:
-Clone the repository:
-git clone https://github.com/tetianahodis1308/Landing-Page.git
-cd Landing-Page
 
-Install dependencies:
-npm install
-# or
-yarn install
+- Clone the repository: git clone (https://github.com/tetianahodis1308/Landing-Page.git)
 
-Run the project locally:
-npm start
-# or
-yarn start
+- cd Landing-Page
+
+- Install dependencies:
+npm install or yarn install
+
+- Run the project locally:
+npm start or yarn start
